@@ -1,0 +1,15 @@
+/workspaces/Aman/Programs/Add2Numbers/bin/Debug/net10.0/Add2Numbers
+/workspaces/Aman/Programs/Add2Numbers/bin/Debug/net10.0/Add2Numbers.deps.json
+/workspaces/Aman/Programs/Add2Numbers/bin/Debug/net10.0/Add2Numbers.runtimeconfig.json
+/workspaces/Aman/Programs/Add2Numbers/bin/Debug/net10.0/Add2Numbers.dll
+/workspaces/Aman/Programs/Add2Numbers/bin/Debug/net10.0/Add2Numbers.pdb
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.AssemblyInfoInputs.cache
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.AssemblyInfo.cs
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.csproj.CoreCompileInputs.cache
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.sourcelink.json
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.dll
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/refint/Add2Numbers.dll
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.pdb
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/Add2Numbers.genruntimeconfig.cache
+/workspaces/Aman/Programs/Add2Numbers/obj/Debug/net10.0/ref/Add2Numbers.dll
